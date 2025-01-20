@@ -1,5 +1,5 @@
-$bg-color: #211e1e;
-$primary-color: #0078d4;
+$bg-color: #5D7A8C;
+$primary-color: #223440;
 $description-color: #333;
 $border-color: #726f6c;
 $box-shadow-color: #7f7d7d;
@@ -50,7 +50,7 @@ header {
     }
 
     li {
-        background-color: #9c9999;
+        background-color: #BACBD9;
         padding: 1rem;
         border: 1px solid $border-color;
         border-radius: 5px;
@@ -65,7 +65,7 @@ header {
 
         a {
             text-decoration: none;
-            color: rgb(20, 4, 4);
+            color: $primary-color;
             font-size: 1.4rem;
             font-weight: 500;
             display: block;

@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-color: #0078d4;
+  background-color: #223440;
   color: #fff;
   text-align: center;
   padding: 1rem;
@@ -16,7 +16,7 @@ header h1 {
 }
 
 .projects {
-  background-color: #211e1e;
+  background-color: #5D7A8C;
   width: 60%;
   margin: 2rem auto;
   border-radius: 10px;
@@ -40,7 +40,7 @@ header h1 {
   gap: 1rem;
 }
 .projects li {
-  background-color: #9c9999;
+  background-color: #BACBD9;
   padding: 1rem;
   border: 1px solid #726f6c;
   border-radius: 5px;
@@ -53,7 +53,7 @@ header h1 {
 }
 .projects li a {
   text-decoration: none;
-  color: rgb(20, 4, 4);
+  color: #223440;
   font-size: 1.4rem;
   font-weight: 500;
   display: block;
